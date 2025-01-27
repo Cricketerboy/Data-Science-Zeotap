@@ -1,0 +1,5 @@
+,TotalPurchaseValue,TotalPurchaseValue,AvgPurchaseValue,AvgPurchaseValue,DaysSinceSignup,DaysSinceSignup,UniqueProductsPurchased,UniqueProductsPurchased
+,mean,median,mean,median,mean,median,mean,median
+Cluster,,,,,,,,
+0,5451.8829577464785,5294.99,829.1716214051988,803.9757142857143,568.9577464788732,635.0,6.549295774647887,7.0
+1,2366.498984375,2529.745,609.0411806485615,600.6277500000001,549.0234375,469.0,3.9765625,4.0
